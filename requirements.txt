@@ -1,0 +1,2 @@
+The following are the packages and versions used and will be required to emulate this project.
+
