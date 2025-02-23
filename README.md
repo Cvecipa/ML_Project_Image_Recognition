@@ -64,4 +64,4 @@ Data Understanding -> In preparation for the project a number of datasets were r
 
 <hr>
 
-Data Preparation -> 
+Data Preparation -> To prepare the dataset for the project we employed some generic steps for cleaning the dataset; initially just checking for and removing any non-images from the dataset and following which a manual check of the images to verify the set is clean and ready for use. The dataset is then split into three partitions - a training, validation and test set in the ratio of 0.7, 0.1 and 0.2 respectively. 
