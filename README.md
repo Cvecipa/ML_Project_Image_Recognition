@@ -1,5 +1,11 @@
 # ML_Project_Image_Recognition
 Image Recognition for cracks in walls and pavements - aiming to automate the process of checking structural stability.
+## Project Introduction
+The following project aims to create and train a machine learning (henceforth ML) model able to classify an image into one of two categories, either cracked or not. 
+
+As such a relevant dataset was selected containing images of walls being both cracked and not (consisting of over 18,000 images) which will be used to teach, train and evaluate the model. 
+
+Throughout the course of this project both CRISP-DM (Cross-Industry Standard Process for Data Mining) and the ML Pipeline will govern the steps and process plan undertaken as seen below.
 
 # Table of Contents
 ## Section 1
