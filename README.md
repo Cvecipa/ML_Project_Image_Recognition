@@ -65,3 +65,40 @@ Data Understanding -> In preparation for the project a number of datasets were r
 <hr>
 
 Data Preparation -> To prepare the dataset for the project we employed some generic steps for cleaning the dataset; initially just checking for and removing any non-images from the dataset and following which a manual check of the images to verify the set is clean and ready for use. The dataset is then split into three partitions - a training, validation and test set in the ratio of 0.7, 0.1 and 0.2 respectively. 
+
+<hr>
+
+Modelling -> *TBC
+
+<hr>
+
+Evaluation -> *TBC
+
+<hr>
+
+Deployment -> *TBC
+
+<hr> 
+
+### My ML Pipeline
+
+<hr>
+
+Introduction: The following explores the process plan adopted in this project, explaining step-by-step what was done and what this project set out to achieve.
+
+<hr>
+
+Data Collection -> 
+1. => Collecting dataset containing images of cracked and non-cracked structural surfaces.
+2. => Ensuring variety within the dataset, key focal points being things such as lighting; angle of the crack on the surface; external environmental conditions that could be present.
+3. => Checking dataset to remove any non-image files and removing them. 
+4. => Labeling images as cracked or non-cracked. 
+5. => A final visual check of all aforementioned steps to ensure accuracy.
+6. => Splitting the checked dataset into the desired subsets of train, test and validation. 
+
+These steps can be seen in the first of the jupyter notebooks in this project titled 1_data_collection. 
+
+<hr>
+
+Data Preprocessing and Augmentation ->
+
