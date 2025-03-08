@@ -102,3 +102,35 @@ These steps can be seen in the first of the jupyter notebooks in this project ti
 
 Data Preprocessing and Augmentation ->
 
+
+<hr>
+
+Feature Extraction ->
+
+
+<hr>
+
+Model Selection and Training ->
+
+
+<hr>
+
+Evaluation ->
+
+
+<hr>
+
+Hyperparameters ->
+
+
+<hr>
+
+Deployment
+
+
+<hr>
+
+Future Monitoring and Potential Improvements ->
+
+
+<hr>
