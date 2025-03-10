@@ -1,5 +1,6 @@
 The following is the versions used in this project, included in this file is how to set up this project to use for yourself:
 
 Versions:
-Python 3.12.1
+Python 3.8.12
+
 

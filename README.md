@@ -134,3 +134,6 @@ Future Monitoring and Potential Improvements ->
 
 
 <hr>
+
+## About the Dataset
+The chosen dataset was decided upon for a number of reasons, primarily the notably large size of the dataset and the subdivisions within it. The model will be tested on cracked and non-cracked images of walls but the dataset contains also images of cracked and non-cracked pavements and decks meaning after training and evaluation the best model can also be tested for transferability on these other structures. Additionally, the large file count, 56000, will save some effort upfront as when training the models it can be observed that the bigger the better - having a smaller dataset could impose issues unless the dataset is augmented to provide more images, ie, the same images alongside warped or rotated versions to give the dataset depth. 
