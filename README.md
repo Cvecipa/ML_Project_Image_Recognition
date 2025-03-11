@@ -142,3 +142,24 @@ The chosen dataset was decided upon for a number of reasons, primarily the notab
 
 ## Setting Up My Workspace
 After deciding project aims and finding a suitable dataset, setting the workspace was next. Consisting mostly of creating the repo itself and including within this a few key elements for a ML project - a .gitignore file for sensitive data to not be pushed to git; the jupyter notebooks I would be working out of organised as: 1_data_collection, 2_data_visualisation and 3_modelling_and_evaluation; and a README file to document the project itself alongside various other instructions. 
+
+<hr>
+
+# Jupyter Notebooks
+
+<hr>
+
+## Data Collection
+
+
+<hr>
+
+## Data Visualisation
+
+
+<hr>
+
+## Modelling and Evaluation
+
+
+<hr>
