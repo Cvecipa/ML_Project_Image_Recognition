@@ -150,7 +150,7 @@ After deciding project aims and finding a suitable dataset, setting the workspac
 <hr>
 
 ## Data Collection
-
+To begin the first notebook I set out the aims of the notebook, namely finding a suitable dataset; downloading and preprocessing said dataset; and finally splitting it into three subsets for training later, these subsets being a test, train and validation set. 
 
 <hr>
 
