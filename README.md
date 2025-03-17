@@ -155,11 +155,11 @@ To begin the first notebook I set out the aims of the notebook, namely finding a
 <hr>
 
 ## Data Visualisation
-
+In this notebook, I set out the aims of exploring and visualizing the dataset to better understand its characteristics. This involves generating summary statistics, examining class distributions, and identifying potential issues such as class imbalance or missing values. I also create various plots and visual representations to gain insights into the data before proceeding to the modeling phase.
 
 <hr>
 
 ## Modelling and Evaluation
-
+In this final notebook, I set out the aims of training, evaluating, and refining a machine learning model using the preprocessed dataset. I begin by selecting an appropriate model architecture, followed by training it on the training set and validating its performance. I then evaluate the model using various metrics and, if necessary, fine-tune it to improve accuracy and generalizability. Finally, I test the model on the test set to assess its real-world performance.
 
 <hr>
