@@ -7,6 +7,7 @@ As such a relevant dataset was selected containing images of walls being both cr
 
 Throughout the course of this project both CRISP-DM (Cross-Industry Standard Process for Data Mining) and the ML Pipeline will govern the steps and process plan undertaken as seen below.
 
+
 <hr>
 <hr>
 
@@ -38,8 +39,9 @@ Throughout the course of this project both CRISP-DM (Cross-Industry Standard Pro
 <hr>
 <hr>
 
-# Project Review
-*Finish word doc and commit here
+# Project Review and Abstract
+Abstract -> Structural defects such as cracks in walls pose risks to the safety and longevity of buildings if not identified early, traditional inspection methods are often time-consuming, costly and inconsistent and with growing demand for rapid assessments, automated approaches using machine learning and image recognition are gaining interest. This project explores the use of computer vision to detect wall cracks from images - aiming to reduce reliance on manual inspections and improve the speed and accuracy of defect identification.
+
 
 # Project Breakdown Structure
 ### CRISP-DM 
