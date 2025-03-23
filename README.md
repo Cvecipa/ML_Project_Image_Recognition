@@ -1,5 +1,5 @@
 # ML_Project_Image_Recognition
-Image Recognition for cracks in walls and pavements - aiming to automate the process of checking structural stability.
+Image Recognition for cracks in walls and pavements - aiming to automate, to some degree, the process of checking structural stability. The following ReadMe will outline how this project sets about achieving this and what steps were employed to get there.
 ## Project Introduction
 The following project aims to create and train a machine learning (henceforth ML) model able to classify an image into one of two categories, either cracked or not. 
 
