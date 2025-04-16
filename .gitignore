@@ -1,5 +1,5 @@
 kaggle.json
 inputs/cracks_dataset_new
-outputs/v1/tf_model_2_walls.h5
-outputs/v1/tf_model_1_walls.h5
-outputs/v1/tf_model_3_walls.h5
+*.h5
+*.pkl
+outputs/
