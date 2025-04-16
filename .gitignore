@@ -3,3 +3,5 @@ inputs/cracks_dataset_new
 *.h5
 *.pkl
 outputs/
+outputs/v1/*.h5
+outputs/v1/*.pkl
